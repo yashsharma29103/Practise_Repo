@@ -5,3 +5,7 @@
 "Doing some changes"
 
 "Bye"
+
+"Why Bye?"
+
+"Say Hi!!"
