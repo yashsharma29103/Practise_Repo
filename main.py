@@ -6,4 +6,5 @@ def add(a,b):
 
 
 def sub(a,b):
+  """Function to subtract"""
   pass
